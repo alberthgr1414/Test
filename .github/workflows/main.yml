@@ -29,5 +29,5 @@ jobs:
 
       - name: Build and push Docker image
         run: |
-          docker build -t alberth1414/test:latest ./Test/Doxkerfile
+          docker build -t alberth1414/test:latest ./Test/Dockerfile
           docker push alberth1414/test:latest
