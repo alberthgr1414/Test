@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\users\\alberth.garita\\Downloads\\Test-main\\Test-main\\Test\\Test.csproj": {}
+    "D:\\MULTIMONEY\\DESARROLLO\\Knowledge\\Test\\Test\\Test.csproj": {}
   },
   "projects": {
-    "D:\\users\\alberth.garita\\Downloads\\Test-main\\Test-main\\Test\\Test.csproj": {
+    "D:\\MULTIMONEY\\DESARROLLO\\Knowledge\\Test\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\users\\alberth.garita\\Downloads\\Test-main\\Test-main\\Test\\Test.csproj",
+        "projectUniqueName": "D:\\MULTIMONEY\\DESARROLLO\\Knowledge\\Test\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "D:\\users\\alberth.garita\\Downloads\\Test-main\\Test-main\\Test\\Test.csproj",
+        "projectPath": "D:\\MULTIMONEY\\DESARROLLO\\Knowledge\\Test\\Test\\Test.csproj",
         "packagesPath": "D:\\users\\alberth.garita\\.nuget\\packages\\",
-        "outputPath": "D:\\users\\alberth.garita\\Downloads\\Test-main\\Test-main\\Test\\obj\\",
+        "outputPath": "D:\\MULTIMONEY\\DESARROLLO\\Knowledge\\Test\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -47,6 +47,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.2, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "3/RNjzjv58sbEX7OD4c7wBd/+qw7dF+m1QeWNVu2Pi/5bu/ifK++z6ORnmG/1KHBap22xHZ1e84rXIdl7daXeA==",
+  "dgSpecHash": "Xu5YI3arxDOCRiH7smWWapB7ucaCnCiCNAfCmOtOarFV8V7s9sW4jn9p4TviJt+N463MC8HfroFFey+j+6TSxA==",
   "success": true,
-  "projectFilePath": "D:\\users\\alberth.garita\\Downloads\\Test-main\\Test-main\\Test\\Test.csproj",
+  "projectFilePath": "D:\\MULTIMONEY\\DESARROLLO\\Knowledge\\Test\\Test\\Test.csproj",
   "expectedPackageFiles": [
     "D:\\users\\alberth.garita\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.2\\microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
     "D:\\users\\alberth.garita\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "D:\\users\\alberth.garita\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "D:\\users\\alberth.garita\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "D:\\users\\alberth.garita\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "D:\\users\\alberth.garita\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "D:\\users\\alberth.garita\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
